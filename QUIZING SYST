@@ -1,0 +1,22 @@
+Dim SCORE As Integer
+Private Sub Command1_Click()
+MsgBox ("YOUR SCORE IS" & SCORE)
+End Sub
+Private Sub Command2_Click()
+End
+End Sub
+Private Sub Option1_Click()
+If Option 1.Value = TRUEN Then
+SCORE SCORE + 10
+End If
+End Sub
+Private Sub Option4_Click()
+If Option 1.Value = True Then
+SCORE=SCORE + 10
+End If
+End Sub
+Private Sub Option7_Click())
+If Option3.Value = True Then
+SCORE=SCORE +10
+End If
+End Sub
